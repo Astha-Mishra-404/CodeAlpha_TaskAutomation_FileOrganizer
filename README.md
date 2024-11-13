@@ -1,1 +1,1 @@
-# CodeAlpha_TaskAutomation_FileOrganizer
+This Python script organizes files in a specified directory by categorizing them into folders based on their extensions (e.g., Images, Documents etc ..). It creates a timestamped backup of all files before moving them, avoiding duplicates for efficient file management.
